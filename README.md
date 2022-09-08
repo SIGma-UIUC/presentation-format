@@ -26,7 +26,7 @@ Your presentation is ready. To edit a presentation, edit the source
 Markdown file, it should be quite intuitive.
 
 In general, you can create another `.md` file and do the exactly
-same thing. As long as the `.sty` file and `pwny.png` are in the
+same thing. As long as the `.sty` file and `sigma.png` are in the
 same directory, export will work correctly.
 
 # Note
