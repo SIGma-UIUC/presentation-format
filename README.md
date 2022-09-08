@@ -1,6 +1,6 @@
 # SIGma Presentation Template
 
-Sample output: [PDF](https://www.google.com).
+Sample output: [PDF](https://github.com/SIGma-UIUC/presentation-format/blob/main/tex-example.pdf).
 
 ## Quickstart Using Markdown
 
